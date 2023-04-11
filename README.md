@@ -1,5 +1,7 @@
 ## 💫 About Me:
-Soy Fullstack Web Developer con pasión por construir aplicaciones que tengan un buen diseño y que provean de una experiencia amigable para el usuario. Soy de aprendizaje rápido, y tengo un buen ojo para los detalles.<br> Si estás buscando un desarrollador Fullstack para construir tu próxima aplicación, por favor contactame. Estaré contenta de poder conversar.
+
+Soy Fullstack Web Developer con pasión por construir aplicaciones con un diseño orientado a la experiencia de usuario, de manera creativa para brindar soluciones ágiles.<br> Si estás buscando un desarrollador Fullstack para construir tu próxima aplicación o si tenes dudas sobre alguno de mis trabajos no dudes en contactarme, estaré contenta de responder!
+
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-duarte-7431a4205/) 
 
