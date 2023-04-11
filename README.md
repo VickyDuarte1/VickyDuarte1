@@ -27,3 +27,8 @@ Soy Fullstack Web Developer con pasión por construir aplicaciones con un diseñ
   </h2>
   <a href = "https://www.youtube.com/watch?v=uyV-fw3TL8M">
    <img align="center" src="https://github.com/CaroRuvira/CaroRuvira/blob/main/Brainlyportada.png"/>
+
+  :pushpin: PI for Henry:
+  </h2>
+  <a href = "https://www.youtube.com/watch?v=zWh6noxbroU">
+   <img align="center" src="https://github.com/VickyDuarte1/VickyDuarte1/blob/main/PI image.png"/>
